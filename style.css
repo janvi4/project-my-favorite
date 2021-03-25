@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+}
+#home{
+    background:linear-gradient( #f5079e 0%, #f50713 100%);
+    height: 600px;
+    padding-top: 100px;
+}
+img{
+    width: 400px;
+}
